@@ -13,7 +13,7 @@
     <artifactId>oval-aop-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <com.alibaba.fastjson>1.2.36</com.alibaba.fastjson>
+        <com.alibaba.fastjson>1.2.83</com.alibaba.fastjson>
         <net.sf.oval.version>1.87</net.sf.oval.version>
         <commons-collections.version>3.2.2</commons-collections.version>
     </properties>
